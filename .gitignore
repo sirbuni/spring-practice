@@ -34,6 +34,6 @@ build/
 
 
 ### AI Tools ###
-/.claude/
+/.claude/prompts/
 /.gemini/
 /.crush/
